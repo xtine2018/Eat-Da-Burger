@@ -1,0 +1,84 @@
+
+li {
+    padding: 15px;
+    margin: 15px;
+    background: #ffffff;
+    list-style: none;
+  }
+  
+  ul {
+      list-style: none;
+  }
+  
+  .center {
+      text-align: center;
+  }
+  
+  .right {
+      align-content: right;
+  }
+  
+  img {
+      align-content: center;
+  }
+  
+  h1 {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      text-align: center;
+      font-size: 125px;
+      background-color: white;
+  }
+  
+  h2 {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      text-align: center;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 25px;
+    border: 5px rgb(242, 133, 133) dotted;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+  }
+  
+  .form-group {
+    margin-bottom: 25px;
+  }
+  
+  .btn-primary {
+      border-radius: 15px;
+      border: 1px white;
+      background-color: rgb(252, 239, 144);
+      color: black;
+  }
+
+  .btn-primary:hover {
+      background-color: rgb(162, 249, 182);
+
+  }
+  
+  body { 
+    background: url("/assets/img/cutefries.jpg"); 
+  }
+
+  .message {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%; 
+    height:45%;
+    bottom: 0; 
+    display: block;
+    position: absolute;
+    background-color: rgba(0,0,0,0.6);
+    color: #fff;
+    padding: 0.5em;
+  }
+
+  .col-sm-6 {
+      background-color: white;
+      border: 5px rgb(242, 133, 133) dotted;
+      font-size: 18px;
+  }
